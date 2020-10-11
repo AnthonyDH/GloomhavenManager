@@ -3000,6 +3000,26 @@
     "unlocked": "FALSE"
   },
   {
+    "id": 151,
+    "name": "???",
+    "cost": 0,
+    "count": 0,
+    "slot": "???",
+    "source": "???",
+    "spent": "TRUE",
+    "desc": "???",
+    "faq": "",
+    "minusOneCardsAdded": "",
+    "useSlots": "",
+    "consumed": "",
+    "summon__hp": "",
+    "summon__move": "",
+    "summon__attack": "",
+    "summon__range": "",
+    "soloItem": "",
+    "unlocked": "FALSE"
+  },
+  {
     "id": 152,
     "name": "Ring of Duality",
     "cost": 50,
